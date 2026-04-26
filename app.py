@@ -25,4 +25,4 @@ if st.button("Predict"):
             st.success("Real Job Posting")
             st.write("This job appears legitimate based on text analysis.")
 
-st.write("Note: Model may not be 100% accurate.")
+st.write("Note: This prediction is based on a machine learning model and may not always be accurate.")
